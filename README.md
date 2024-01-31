@@ -1,4 +1,2 @@
 # TD1
-b
-b
-b
+modif mathieu
