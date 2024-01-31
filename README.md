@@ -1,5 +1,3 @@
 # TD1
-b
-b
-b
 
+charles modif
