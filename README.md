@@ -1,6 +1,6 @@
 # TD1
 
 modif alexis
-charles modif
+modif charles 
 modif 1 matthieu
-mathieu 2
+modif mathieu 2
